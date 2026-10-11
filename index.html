@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Куда пойти в Пекине</title>
+<meta name="theme-color" content="#0b7c90">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Пекин">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="vendor/maplibre-gl.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="map" aria-label="Карта Пекина"></div>
+
+<aside id="panel" class="panel" aria-label="Список мест">
+  <button id="handle" class="handle" type="button" aria-label="Развернуть или свернуть список"><span></span></button>
+  <div class="head">
+    <div class="title"><h1>Куда пойти в Пекине</h1><span id="count" class="count"></span></div>
+    <input id="q" type="search" placeholder="Поиск по названию или адресу" autocomplete="off" aria-label="Поиск">
+    <div id="chips" class="chips" role="group" aria-label="Категории"></div>
+  </div>
+  <div id="list" class="list"></div>
+</aside>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+<button id="layerBtn" class="fab" type="button" title="Сменить стиль карты" aria-label="Сменить стиль карты">
+  <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M12 3 2 8l10 5 10-5-10-5Zm0 12.5L4.6 11.8 2 13l10 5 10-5-2.6-1.2L12 15.5Zm0 4L4.6 15.8 2 17l10 5 10-5-2.6-1.2L12 19.5Z"/></svg>
+  <span id="layerName">Карта</span>
+</button>
+
+<script src="vendor/maplibre-gl.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

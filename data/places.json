@@ -1,0 +1,508 @@
+{
+ "places": [
+  {
+   "id": "laojing",
+   "cat": "food",
+   "name": "Laojing Russian Restaurant",
+   "note": "Русский ресторан",
+   "addr": "No.A1, Xiyangguan Hutong, Dongcheng",
+   "lat": 39.942693,
+   "lon": 116.427473,
+   "links": [
+    {
+     "l": "Apple Maps",
+     "u": "https://maps.apple.com/place?address=No.A1,%20Xiyangguan%20Hutong%20(Beixinqiao%20Police%20Station%20Diagonally%20Opposite),%20Dongcheng,%20Beijing%20China&coordinate=39.942693,116.427473&name=Laojing%20Russian%20Restaurant&place-id=H2710I3F80D1D675F24&map=explore"
+    }
+   ]
+  },
+  {
+   "id": "commune",
+   "cat": "food",
+   "name": "Commune X Huanshi (Daji Alley Shop)",
+   "note": "Западная кухня",
+   "addr": "北京城区陶然亭街道骡马市大街20号院",
+   "price": "¥137 / чел",
+   "lat": 39.88888,
+   "lon": 116.37647,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/s9CXOKjbSc"
+    }
+   ]
+  },
+  {
+   "id": "zakuzaku",
+   "cat": "food",
+   "name": "ZAKUZAKU (Sanlitun)",
+   "note": "Эклеры, кондитерская",
+   "addr": "北京城区三里屯路19号院地下车库及地下商业-1层SB号内LG10a",
+   "price": "¥38 / чел",
+   "lat": 39.93479,
+   "lon": 116.45407,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/46tVek21r5VU"
+    }
+   ]
+  },
+  {
+   "id": "yipai",
+   "cat": "food",
+   "name": "YIPAI 依派水果冰淇淋",
+   "note": "Корпусное мороженое",
+   "addr": "王府井大街138号北京apm B2层",
+   "price": "¥68 / чел",
+   "lat": 39.91483,
+   "lon": 116.41178,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/al0KJ3Y1o8Cr"
+    }
+   ]
+  },
+  {
+   "id": "maomao",
+   "cat": "bar",
+   "name": "毛毛虫酒吧",
+   "note": "Бар и пицца, 4.8 ★ на Dianping",
+   "addr": "交道口南大街140号-1, район Дунсы",
+   "price": "¥179 / чел",
+   "lat": 39.938,
+   "lon": 116.403,
+   "rough": true,
+   "links": [
+    {
+     "l": "Dianping",
+     "u": "https://m.dianping.com/shopinfo/G2iTwgnSbph8hARm?msource=Appshare2021&utm_source=shop_share&shoptype=10&shopcategoryid=24340&cityid=2&isoversea=0"
+    }
+   ]
+  },
+  {
+   "id": "chimney",
+   "cat": "bar",
+   "name": "北京记忆·烟囱里 In Chimney",
+   "note": "Коктейльный бар, район Аньчжэнь",
+   "addr": "安贞商圈",
+   "lat": 39.965,
+   "lon": 116.406,
+   "rough": true,
+   "links": [
+    {
+     "l": "Dianping",
+     "u": "https://m.dianping.com/shopshare/l7BZvrPhoVXT3i7q?msource=Appshare2021&utm_source=shop_share&shoptype=30&shopcategoryid=50122&isoversea=0&shareid=ePCmKgQWYL_1791539764"
+    }
+   ]
+  },
+  {
+   "id": "xidan",
+   "cat": "shop",
+   "name": "W. Management (Xidan Joy City)",
+   "note": "Покупки, 4 этаж, F-32",
+   "addr": "Xidan Joy City, No.131, Xidan North Street, 4F",
+   "lat": 39.91132,
+   "lon": 116.37252,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/keYLAqqjgXF"
+    }
+   ]
+  },
+  {
+   "id": "jd",
+   "cat": "shop",
+   "name": "JD MALL (Шуанцзин)",
+   "note": "Бытовая техника",
+   "addr": "广渠路31号九龙商厦1幢",
+   "lat": 39.8941,
+   "lon": 116.47421,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/76IIcZk1h4LF"
+    }
+   ]
+  },
+  {
+   "id": "s33",
+   "cat": "shop",
+   "name": "3·3大厦",
+   "note": "Торговый центр, Саньлитунь",
+   "addr": "No.33, Sanlitun Road, Chaoyang",
+   "lat": 39.93684,
+   "lon": 116.45477,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/1NrOJ6O1ieej"
+    }
+   ]
+  },
+  {
+   "id": "zhuan",
+   "cat": "shop",
+   "name": "Super Zhuanzhuan",
+   "note": "Одежда, обувь и сумки, 3 этаж",
+   "addr": "建国门外大街17号北京友谊商店3层",
+   "lat": 39.90936,
+   "lon": 116.44291,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/am54pZ81749w"
+    }
+   ]
+  },
+  {
+   "id": "shichahai",
+   "cat": "shop",
+   "name": "Сувенирный магазин у башни",
+   "note": "Крема по дате рождения. У башни, станция Шичахай, линия 8",
+   "addr": "Район Шичахай",
+   "lat": 39.944,
+   "lon": 116.393,
+   "rough": true,
+   "links": []
+  },
+  {
+   "id": "panjiayuan",
+   "cat": "sight",
+   "name": "Panjiayuan Antique Market",
+   "note": "Рынок антиквариата. Вход: West Gate 1, «дверь»",
+   "addr": "潘家园路华威里18号潘家园旧货市场",
+   "lat": 39.8756,
+   "lon": 116.45622,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/fNmoHZY10SM"
+    }
+   ]
+  },
+  {
+   "id": "798",
+   "cat": "sight",
+   "name": "798 Art Center",
+   "note": "Характерный квартал",
+   "addr": "酒仙桥4号798艺术区798中二街",
+   "lat": 39.98506,
+   "lon": 116.49591,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/9lIsiimnf6H"
+    }
+   ]
+  },
+  {
+   "id": "zhengyuan",
+   "cat": "spa",
+   "name": "郑远元专业修脚房 (Baiziwan)",
+   "note": "Рефлексология стопы",
+   "addr": "Chaoyang, Guangbai West Road, Silo City 6 Qi Dongli No.227-4",
+   "lat": 39.89811,
+   "lon": 116.50712,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/jkx2gngZ7Wo"
+    }
+   ]
+  },
+  {
+   "id": "chinaworld",
+   "cat": "shop",
+   "name": "China World Mall",
+   "note": "Торговый центр, Гомао",
+   "addr": "No.1, Jianguomen Outer Street (Guomao)",
+   "lat": 39.91088426,
+   "lon": 116.45928919,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/rkBaSiGeIG"
+    }
+   ]
+  },
+  {
+   "id": "dsm",
+   "cat": "shop",
+   "name": "Dover Street Market (Wangfu Central)",
+   "note": "Универмаг, 2 этаж, 210",
+   "addr": "王府井大街269号王府中环西座L2层210",
+   "lat": 39.91237069,
+   "lon": 116.40860751,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/hENib7wTaZz"
+    }
+   ]
+  },
+  {
+   "id": "qipao",
+   "cat": "shop",
+   "name": "Qi Weiguofeng Clothing And Accessories",
+   "note": "Склад-магазин ципао, рынок одежды",
+   "addr": "北京城区信通大厦B座7层",
+   "lat": 39.90404007,
+   "lon": 116.43096775,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/TTmtPw11eUo"
+    }
+   ]
+  },
+  {
+   "id": "acne",
+   "cat": "shop",
+   "name": "Acne Studios (Саньлитунь)",
+   "note": "Магазин",
+   "addr": "三里屯路19号院S2-10&20",
+   "lat": 39.93562481,
+   "lon": 116.45422518,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/2CfMECbA120Uz"
+    }
+   ]
+  },
+  {
+   "id": "arcteryx",
+   "cat": "shop",
+   "name": "ARC'TERYX (Sanlitun Taikoo Li South)",
+   "note": "Магазин",
+   "addr": "三里屯路19号S01号楼S1-10S1-20",
+   "lat": 39.93566594,
+   "lon": 116.45349964,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/1rCDUIqNfUX"
+    }
+   ]
+  },
+  {
+   "id": "scitech",
+   "cat": "shop",
+   "name": "Beijing Scitech Premium Outlets",
+   "note": "Аутлет, закреплён в канале (Wangfujing Outlets Town Shop)",
+   "addr": "马泉营西路与香江北路交叉口东北160米",
+   "lat": 40.03487547,
+   "lon": 116.50482506,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/j3dNpo615eSe"
+    }
+   ]
+  },
+  {
+   "id": "yamaguchi",
+   "cat": "shop",
+   "name": "Yamaguchi Premium",
+   "note": "Дисконт-магазин («гора секонд»)",
+   "addr": "东四北大街119号",
+   "lat": 39.93798886,
+   "lon": 116.41681642,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/2CHNCxfwebWu"
+    }
+   ]
+  },
+  {
+   "id": "margiela",
+   "cat": "shop",
+   "name": "Maison Margiela (Beijing SKP)",
+   "note": "Магазин, 4 этаж",
+   "addr": "Beijing SKP, 4F",
+   "lat": 39.90972286,
+   "lon": 116.47862658,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/2CEfFRMG1k4tq"
+    }
+   ]
+  },
+  {
+   "id": "zuo23",
+   "cat": "food",
+   "name": "23 места",
+   "note": "Говяжья лапша",
+   "addr": "工人体育场北路1号5号楼一层",
+   "price": "¥50 / чел",
+   "lat": 39.93628498,
+   "lon": 116.44450486,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/YhZVme12efr"
+    }
+   ]
+  },
+  {
+   "id": "zhengyuan2",
+   "cat": "spa",
+   "name": "郑远元专业修脚房 (Luoma Jiayuan)",
+   "note": "Рефлексология стопы, второй филиал",
+   "addr": "Chaoyang North Road, Luoma Jiayuan Building No.105",
+   "price": "¥81 / чел",
+   "lat": 39.9234197,
+   "lon": 116.51286229,
+   "links": [
+    {
+     "l": "Amap",
+     "u": "https://surl.amap.com/2BBmGHK6K2zI"
+    }
+   ]
+  }
+ ],
+ "unplaced": [
+  {
+   "cat": "sight",
+   "name": "Тихая набережная в центре",
+   "note": "Ссылка ведёт на маршрут до ТЦ 北京新百CCmall",
+   "links": [
+    {
+     "l": "Baidu",
+     "u": "https://j.map.baidu.com/cf/YsDM"
+    }
+   ]
+  },
+  {
+   "cat": "food",
+   "name": "Кофе в центре",
+   "note": "Пост в Instagram",
+   "links": [
+    {
+     "l": "Instagram",
+     "u": "https://www.instagram.com/p/Ddi-ckvlOsf/"
+    }
+   ]
+  },
+  {
+   "cat": "bar",
+   "name": "Коктейль «Женский антидот»",
+   "note": "Пост про коктейль в Dianping",
+   "links": [
+    {
+     "l": "Dianping",
+     "u": "http://dpurl.cn/o73b0t9z"
+    }
+   ]
+  },
+  {
+   "cat": "bar",
+   "name": "D3CHANNEL",
+   "note": "Бар",
+   "links": [
+    {
+     "l": "Dianping",
+     "u": "https://m.dianping.com/shopshare/l4Rug0rlxTtsi4CK?msource=Appshare2021&utm_source=shop_share&shoptype=30&shopcategoryid=50122&isoversea=undefined&shareid=tC6nqqqoQe_1791539717"
+    }
+   ]
+  },
+  {
+   "cat": "bar",
+   "name": "YUE",
+   "note": "Бар",
+   "links": [
+    {
+     "l": "Dianping",
+     "u": "https://m.dianping.com/shopshare/k2TuDtpZaNFSVhaw?msource=Appshare2021&utm_source=shop_share&shoptype=30&shopcategoryid=50122&isoversea=0&shareid=Ap8L6l7PO4_1791540066"
+    }
+   ]
+  },
+  {
+   "cat": "bar",
+   "name": "堂 Tang club",
+   "note": "Бар",
+   "links": [
+    {
+     "l": "Dianping",
+     "u": "https://m.dianping.com/shopshare/laQeCEe7eQZPjWn4?msource=Appshare2021&utm_source=shop_share&shoptype=30&shopcategoryid=50122&isoversea=0&shareid=PPKbhOkSok_1791540282"
+    }
+   ]
+  },
+  {
+   "cat": "bar",
+   "name": "万相酒楼",
+   "note": "Бар",
+   "links": [
+    {
+     "l": "Dianping",
+     "u": "https://m.dianping.com/shopshare/l7FVBuXxkiosv2OD?msource=Appshare2021&utm_source=shop_share&shoptype=30&shopcategoryid=50122&isoversea=0&shareid=mTbAhopBBO_1791540467"
+    }
+   ]
+  },
+  {
+   "cat": "bar",
+   "name": "十条 TIAO",
+   "note": "Бар",
+   "links": [
+    {
+     "l": "Dianping",
+     "u": "https://m.dianping.com/shopshare/l1sQC7idMXI2HMuG?msource=Appshare2021&utm_source=shop_share&shoptype=30&shopcategoryid=50122&isoversea=0&shareid=RHDDWSep8P_1791540988"
+    }
+   ]
+  },
+  {
+   "cat": "bar",
+   "name": "HIDDEN HOUSE",
+   "note": "Бар",
+   "links": [
+    {
+     "l": "Dianping",
+     "u": "https://m.dianping.com/shopshare/laeOrf8bGX6aHipQ?msource=Appshare2021&utm_source=shop_share&shoptype=30&shopcategoryid=33951&isoversea=0&shareid=WJVPdprSZt_1791541268"
+    }
+   ]
+  },
+  {
+   "cat": "bar",
+   "name": "HERBAL",
+   "note": "Бар",
+   "links": [
+    {
+     "l": "Dianping",
+     "u": "https://m.dianping.com/shopshare/H5hBWdyDdyj16uoi?msource=Appshare2021&utm_source=shop_share&shoptype=30&shopcategoryid=50122&isoversea=0&shareid=OFuSVvHtpq_1791541338"
+    }
+   ]
+  },
+  {
+   "cat": "shop",
+   "name": "Aape",
+   "note": "Магазин",
+   "links": [
+    {
+     "l": "Baidu",
+     "u": "https://j.map.baidu.com/2e/kK7M"
+    }
+   ]
+  },
+  {
+   "cat": "shop",
+   "name": "Yonghui Supermarket",
+   "note": "Супермаркет",
+   "links": [
+    {
+     "l": "Baidu",
+     "u": "https://j.map.baidu.com/36/jI"
+    }
+   ]
+  },
+  {
+   "cat": "sight",
+   "name": "Добро в Китае",
+   "note": "В канале только фото",
+   "links": []
+  }
+ ]
+}
