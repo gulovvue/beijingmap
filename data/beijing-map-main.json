@@ -1,0 +1,31 @@
+{
+ "places": [
+  {
+   "id": "home",
+   "cat": "main",
+   "glyph": "⌂",
+   "name": "Где я буду жить: JI Hotel (Chaoyang North Road)",
+   "note": "Рядом с Университетом связи Китая. Заезд 10 ноября, выезд 23 ноября",
+   "addr": "No. 60 Chaoyang North Road, Sanjianfang Township, Chaoyang",
+   "lat": 39.9233312,
+   "lon": 116.548721,
+   "links": [
+    {
+     "l": "Trip.com",
+     "u": "https://www.trip.com/w/Y9MkZVUQMW2"
+    }
+   ]
+  },
+  {
+   "id": "bisu",
+   "cat": "main",
+   "glyph": "У",
+   "name": "BISU: университет Кати",
+   "note": "Beijing International Studies University, 北京第二外国语学院",
+   "addr": "定福庄南里, Chaoyang",
+   "lat": 39.9126965,
+   "lon": 116.5634264,
+   "links": []
+  }
+ ]
+}
